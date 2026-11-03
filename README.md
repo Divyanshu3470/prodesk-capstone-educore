@@ -80,6 +80,13 @@ The application uses MongoDB with the following collections:
 
 The Entity Relationship Diagram (ERD) illustrates the relationships between these collections.
 
+### Entity Relationship Diagram (ERD)
+
+The following diagram illustrates the database structure
+and relationships between EduCore collections.
+
+![EduCore Database ERD](./EduCore-ERD.png)
+
 ## 7. Project Status
 
 Currently in the planning and architecture phase (Sprint 13).
